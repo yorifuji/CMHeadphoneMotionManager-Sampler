@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E3460F6D25280282009E5EA3 /* MotionWriter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3460F6C25280282009E5EA3 /* MotionWriter.swift */; };
 		E3D6DDDB25222BE900EA466B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6DDDA25222BE900EA466B /* AppDelegate.swift */; };
 		E3D6DDDD25222BE900EA466B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6DDDC25222BE900EA466B /* SceneDelegate.swift */; };
 		E3D6DDDF25222BE900EA466B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3D6DDDE25222BE900EA466B /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E3460F6C25280282009E5EA3 /* MotionWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionWriter.swift; sourceTree = "<group>"; };
 		E3D6DDD725222BE900EA466B /* CMHeadphoneMotionManager-Sampler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CMHeadphoneMotionManager-Sampler.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3D6DDDA25222BE900EA466B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3D6DDDC25222BE900EA466B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				E3D6DDE325222BEA00EA466B /* Assets.xcassets */,
 				E3D6DDE525222BEA00EA466B /* LaunchScreen.storyboard */,
 				E3D6DDE825222BEA00EA466B /* Info.plist */,
+				E3460F6C25280282009E5EA3 /* MotionWriter.swift */,
 			);
 			path = "CMHeadphoneMotionManager-Sampler";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3460F6D25280282009E5EA3 /* MotionWriter.swift in Sources */,
 				E3D6DDDF25222BE900EA466B /* ViewController.swift in Sources */,
 				E3D6DDDB25222BE900EA466B /* AppDelegate.swift in Sources */,
 				E3D6DDDD25222BE900EA466B /* SceneDelegate.swift in Sources */,
